@@ -1,0 +1,3 @@
+[submodule "sub"]
+	path = sub
+	url = https://dryaginpavel@bitbucket.org/dryaginpavel/dryagin_submodule.git
