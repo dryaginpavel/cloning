@@ -29,6 +29,7 @@
 2019-02-08 10:17:59.767883+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBSummary.finsTotalDoneRatio
 
 
+
 2019-02-08 10:17:59.767898+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBSummary.gpIndicatorsDoneRatio
 2019-02-08 10:17:59.767915+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBLot.economyRatio
 2019-02-08 10:17:59.767931+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBDepartmentSummary.finsTotalDoneRatio
