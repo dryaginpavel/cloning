@@ -40,11 +40,11 @@
 2019-02-08 10:17:59.768072+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBDepartmentSummary.keyIndicatorsDoneRatio
 2019-02-08 10:17:59.768122+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBPurchase.sortingGroup
 2019-02-08 10:17:59.768151+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBPurchase.dateGrace
-2019-02-08 10:17:59.768171+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBFinancing.doneRatio
-2019-02-08 10:17:59.768190+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBProgramSummary.finsTotalDoneRatio
-2019-02-08 10:17:59.768204+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBProgramSummary.gpIndicatorsDoneRatio
+2019-02-08 10:17:59.768171+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBFinancing.doneRatio1
+2019-02-08 10:17:59.768190+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBProgramSummary.finsTotalDoneRatio1
+2019-02-08 10:17:59.768204+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBProgramSummary.gpIndicatorsDoneRatio1
 2019-02-08 10:17:59.768218+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBProgramSummary.keyIndicatorsDoneRatio
-2019-02-08 10:17:59.768236+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBAction.isTask
+2019-02-08 10:17:59.768236+0500 GPMRM Import[1492:26517] aus configuration unmapped property: DBAction.isTask1
 2019-02-08 10:17:59.786741+0500 GPMRM Import[1492:26517] file:///Users/paveldryagin/Library/Application%20Support/ru.prognoz.GPMRM-Import/GPMRM.sqlite
 2019-02-08 10:17:59.787432+0500 GPMRM Import[1492:26517] aus core data connected store: [08.02.2019 02:42:03] [48094ea3-ee8d-4dfd-98dc-c196cf955e1b]
 2019-02-08 10:17:59.793124+0500 GPMRM Import[1492:26517] aus server reachable via wifi
